@@ -41,7 +41,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://www.omdbapi.com/?apikey=c147d7f7&t=hunger",
+					"raw": "http://www.omdbapi.com/?apikey=c147d7f7&s=hunger",
 					"protocol": "http",
 					"host": [
 						"www",
@@ -57,7 +57,7 @@
 							"value": "c147d7f7"
 						},
 						{
-							"key": "t",
+							"key": "s",
 							"value": "hunger"
 						}
 					]
