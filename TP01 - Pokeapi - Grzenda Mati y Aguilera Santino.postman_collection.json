@@ -9,7 +9,21 @@
 			"name": "Pikachu",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "https://pokeapi.co/api/v2/pokemon/pikachu",
+					"protocol": "https",
+					"host": [
+						"pokeapi",
+						"co"
+					],
+					"path": [
+						"api",
+						"v2",
+						"pokemon",
+						"pikachu"
+					]
+				}
 			},
 			"response": []
 		},
